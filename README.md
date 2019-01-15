@@ -6,6 +6,9 @@ GAMulti is a custom shell environment that assists in managing multiple GSuite d
 The environment runs in a standard bash4 shell.  All GAMulti functions are loaded from ./.bashrc during the shell’s init process.
 
 ~/.bash_gamulti - contains all GAMulti functions and settings
-~/tokens/ - default location for private API keys 
+
+~/tokens/ - default location for private API keys
+
 ~/tokens/oauth2.txt-${domainName} - example API key
+
 ~/bin/gam - GAM installation location
