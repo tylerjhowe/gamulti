@@ -10,5 +10,3 @@ The environment runs in a standard bash4 shell.  All GAMulti functions exist in 
 /tokens/ - default location for private API keys
 
 /tokens/oauth2.txt-${domainName} - example API key
-
-/bin/gam - GAM installation location
